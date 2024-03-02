@@ -13,7 +13,7 @@
                     "Valladolid" => 350000 ,
                     "Oviedo"=>120000),
             "Francia"=>array(
-                    "Paris"=>7000000,
+                    "Monaco"=>7000000,
             "Italia"=>array(
                     "Roma"=>17000000,
                     "Juve"=>200000)         
