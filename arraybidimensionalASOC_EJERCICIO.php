@@ -3,21 +3,20 @@
         <!--  Sea el array definido abajo, crea una tabla por pantalla y muestra los datos del array -->
         <head>
         <meta charset="UTF-8" />
-        <title>Ejemplo de formulario en la propia página</title>
+        <title>Cambio para github</title>
         </head>
     <body>
         <?php
         $poblacion= array (
             "España"=> array(
-                    "Palencia"=>80000,
+                    "Madrid"=>80000,
                     "Valladolid" => 350000 ,
                     "Oviedo"=>120000),
             "Francia"=>array(
                     "Paris"=>7000000,
-                    "Lyon"=>2100000),
             "Italia"=>array(
                     "Roma"=>17000000,
-                    "Florencia"=>200000)         
+                    "Juve"=>200000)         
                     );
 
         echo "<table border='1'>";
