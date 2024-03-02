@@ -15,7 +15,7 @@
             "Francia"=>array(
                     "Monaco"=>7000000,
             "Italia"=>array(
-                    "Roma"=>17000000,
+                    "Vicario"=>17000000,
                     "Juve"=>200000)         
                     );
 
