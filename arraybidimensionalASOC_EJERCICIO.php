@@ -11,7 +11,7 @@
             "España"=> array(
                     "Madrid"=>80000,
                     "Valladolid" => 350000 ,
-                    "Oviedo"=>120000),
+                    "Felipeee"=>120000),
             "Francia"=>array(
                     "Monaco"=>7000000,
             "Italia"=>array(
